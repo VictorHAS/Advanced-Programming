@@ -1,0 +1,13 @@
+a) -  T
+b) -  T
+c) -  T
+d) -  T
+e) -  F p3 = nome; printf("%c \n", *p3); Isn't the right way to pointer get all the string
+f) -  T
+g) -  T
+h) -  T
+i) -  T
+j) -  T
+l) -  T
+m) -  T
+n) -  T

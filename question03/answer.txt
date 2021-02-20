@@ -1,0 +1,7 @@
+p = i; ‘int *’ from ‘int’ makes pointer from integer without a cast
+
+i = (*&)j; // error IDE waiting for expression
+
+q = *p; // ‘int *’ from ‘int’ makes pointer from integer without a cast
+
+i = (*p)++ + *q;// Error segmentation fault

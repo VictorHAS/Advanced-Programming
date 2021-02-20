@@ -6,9 +6,9 @@ int main()
   int *p, *q;
   p = &i;
   q = &j;
-  printf("%d\n", p == &i); // 1
-  printf("%d\n", *p - *q); // -2
-  printf("%d\n", **&p); // 3
+  printf("%d\n", p == &i);           // 1
+  printf("%d\n", *p - *q);           // -2
+  printf("%d\n", **&p);              // 3
   printf("%d\n", 3 - *p / (*q) + 7); // 10
 
   return 0;

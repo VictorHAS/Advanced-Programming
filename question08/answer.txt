@@ -1,0 +1,3 @@
+The first code prints the elements of the vector, the loop is used to add the value of i and run the elements of the vector;
+
+The second code returns a value as hexadecimal and prints the Memory Address where each element of the vet array is allocated; 

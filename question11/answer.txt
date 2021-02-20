@@ -1,0 +1,15 @@
+aloha[2] = value - is valid;
+
+scanf("%f", &aloha) is valid, but there's a warning about argument type;
+
+aloha = value - invalid;
+
+printf("%f", aloha) - is valid, prints 0.0000;
+
+coisas[4][4] = aloha[3] - is valid;
+
+coisas[5] = aloha - invalid;
+
+pf = value - a value of type "float" cannot be assigned to an entity of type "float *"
+
+pf = aloha - is valid

@@ -1,0 +1,9 @@
+int  mat[4],  *p,  x;
+
+p = mat+1 -  is valid and stores in p the memory address of the term (0 + 1) of mat [4];
+
+p = mat++ - not valid, because there's no way to increment a pointer like this;
+
+p = ++mat - not valid, because there's no way to increment a pointer like this;
+
+x = (*mat)++ - is valid and stores in x an integer value, content of the first mat element;

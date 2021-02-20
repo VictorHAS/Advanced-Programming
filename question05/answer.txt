@@ -1,0 +1,9 @@
+The program shows:
+
+1. The value of the loop iteration, corresponding to which position of the vector is being accessed;
+2. The float value stored inside position i of the vector vet;
+3. The content present in the pointer f + i
+4. The memory address in hexadecimal uppercase where the element of position i of the vector vet is allocated;
+5. The memory address of the pointer f + i in hexadecimal uppercase
+
+Expected responses were obtained.

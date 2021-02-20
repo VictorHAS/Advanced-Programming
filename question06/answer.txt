@@ -1,0 +1,2 @@
+ *(pulo + 2) will return the 3º element from vector
+ pulo + 2; will return the 3º element from vector in format of Memory Address
