@@ -4,7 +4,7 @@
 
 Since the pdf list is in Portuguese, I'll create a list below with the translated questions;
 
-- [ ] 1. Find the value of the following expressions
+- [x] 1. Find the value of the following expressions
 ```c
 int i=3,j=5;
 int *p, *q;
